@@ -35,4 +35,4 @@ Replace "width" and "height" with "viewBox"
 
 ## Final
 
-{{% svg "/img/MyTracks.svg" "/img/MyTracks.svg" %}}
+{{% svg "/img/MyTracks.svg" %}}
