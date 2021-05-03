@@ -123,8 +123,8 @@ url = "/"
 [[menu.main]]
 name = "Blog"
 weight = -9
-identifier = "/blog"
-url = "/blog"
+identifier = "/blog/"
+url = "/blog/"
 
 [markup.goldmark.renderer]
 unsafe= true
