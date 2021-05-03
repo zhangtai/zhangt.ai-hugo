@@ -1,0 +1,390 @@
+<svg color-interpolation="auto" stroke="#000" stroke-linecap="square" width="547" stroke-miterlimit="10" height="347" xmlns="http://www.w3.org/2000/svg" font-family="'Arial'" font-size="12">
+  <style>
+    a text:hover{fill:red}
+  </style>
+  <defs id="defs1">
+    <clipPath id="clipPath1">
+      <path d="M0 0h3209v1531H0V0z"/>
+    </clipPath>
+    <clipPath id="clipPath2">
+      <path d="M0 0v447h647V0z"/>
+    </clipPath>
+    <clipPath id="clipPath3">
+      <path d="M0 0v44h81V0z"/>
+    </clipPath>
+    <clipPath id="clipPath4">
+      <path d="M0 0v197h280V0z"/>
+    </clipPath>
+    <clipPath id="clipPath5">
+      <path d="M0 0v22h10V0z"/>
+    </clipPath>
+    <clipPath id="clipPath6">
+      <path d="M0 0v22h68V0z"/>
+    </clipPath>
+    <clipPath id="clipPath7">
+      <path d="M0 0v26h26V0z"/>
+    </clipPath>
+    <clipPath id="clipPath8">
+      <path d="M0 0v122h124V0z"/>
+    </clipPath>
+    <clipPath id="clipPath9">
+      <path d="M0 0v22h24V0z"/>
+    </clipPath>
+    <clipPath id="clipPath10">
+      <path d="M0 0v122h151V0z"/>
+    </clipPath>
+    <clipPath id="clipPath11">
+      <path d="M0 0v22h51V0z"/>
+    </clipPath>
+    <clipPath id="clipPath12">
+      <path d="M0 0v122h183V0z"/>
+    </clipPath>
+    <clipPath id="clipPath13">
+      <path d="M0 0v22h83V0z"/>
+    </clipPath>
+    <clipPath id="clipPath14">
+      <path d="M0 0v122h192V0z"/>
+    </clipPath>
+    <clipPath id="clipPath15">
+      <path d="M0 0v22h92V0z"/>
+    </clipPath>
+    <clipPath id="clipPath16">
+      <path d="M0 0v197h234V0z"/>
+    </clipPath>
+    <clipPath id="clipPath17">
+      <path d="M0 0v22h45V0z"/>
+    </clipPath>
+    <clipPath id="clipPath18">
+      <path d="M0 0v122h166V0z"/>
+    </clipPath>
+    <clipPath id="clipPath19">
+      <path d="M0 0v22h66V0z"/>
+    </clipPath>
+    <clipPath id="clipPath20">
+      <path d="M0 0v122h150V0z"/>
+    </clipPath>
+    <clipPath id="clipPath21">
+      <path d="M0 0v22h50V0z"/>
+    </clipPath>
+    <clipPath id="clipPath22">
+      <path d="M0 0v122h169V0z"/>
+    </clipPath>
+    <clipPath id="clipPath23">
+      <path d="M0 0v22h69V0z"/>
+    </clipPath>
+    <clipPath id="clipPath24">
+      <path d="M0 0v122h161V0z"/>
+    </clipPath>
+    <clipPath id="clipPath25">
+      <path d="M0 0v22h61V0z"/>
+    </clipPath>
+    <clipPath id="clipPath26">
+      <path d="M0 0v247h317V0z"/>
+    </clipPath>
+    <clipPath id="clipPath27">
+      <path d="M0 0v22h53V0z"/>
+    </clipPath>
+    <clipPath id="clipPath28">
+      <path d="M0 0v122h244V0z"/>
+    </clipPath>
+    <clipPath id="clipPath29">
+      <path d="M0 0v22h144V0z"/>
+    </clipPath>
+    <clipPath id="clipPath30">
+      <path d="M0 0v172h231V0z"/>
+    </clipPath>
+    <clipPath id="clipPath31">
+      <path d="M0 0v22h52V0z"/>
+    </clipPath>
+    <clipPath id="clipPath32">
+      <path d="M0 0v122h159V0z"/>
+    </clipPath>
+    <clipPath id="clipPath33">
+      <path d="M0 0v22h59V0z"/>
+    </clipPath>
+    <clipPath id="clipPath34">
+      <path d="M0 0v122h156V0z"/>
+    </clipPath>
+    <clipPath id="clipPath35">
+      <path d="M0 0v22h56V0z"/>
+    </clipPath>
+    <clipPath id="clipPath36">
+      <path d="M0 0v122h172V0z"/>
+    </clipPath>
+    <clipPath id="clipPath37">
+      <path d="M0 0v22h72V0z"/>
+    </clipPath>
+    <clipPath id="clipPath38">
+      <path d="M0 0v222h309V0z"/>
+    </clipPath>
+    <clipPath id="clipPath39">
+      <path d="M0 0v23h10V0z"/>
+    </clipPath>
+    <clipPath id="clipPath40">
+      <path d="M0 0v23h90V0z"/>
+    </clipPath>
+    <clipPath id="clipPath41">
+      <path d="M0 0v122h199V0z"/>
+    </clipPath>
+    <clipPath id="clipPath42">
+      <path d="M0 0v22h99V0z"/>
+    </clipPath>
+    <clipPath id="clipPath43">
+      <path d="M0 0v122h164V0z"/>
+    </clipPath>
+    <clipPath id="clipPath44">
+      <path d="M0 0v22h64V0z"/>
+    </clipPath>
+    <clipPath id="clipPath45">
+      <path d="M0 0v122h185V0z"/>
+    </clipPath>
+    <clipPath id="clipPath46">
+      <path d="M0 0v22h85V0z"/>
+    </clipPath>
+    <clipPath id="clipPath47">
+      <path d="M0 0v122h187V0z"/>
+    </clipPath>
+    <clipPath id="clipPath48">
+      <path d="M0 0v22h87V0z"/>
+    </clipPath>
+    <clipPath id="clipPath49">
+      <path d="M0 0v147h270V0z"/>
+    </clipPath>
+    <clipPath id="clipPath50">
+      <path d="M0 0v22h58V0z"/>
+    </clipPath>
+    <clipPath id="clipPath51">
+      <path d="M0 0v122h153V0z"/>
+    </clipPath>
+    <clipPath id="clipPath52">
+      <path d="M0 0v147h229V0z"/>
+    </clipPath>
+    <clipPath id="clipPath53">
+      <path d="M0 0v122h155V0z"/>
+    </clipPath>
+    <clipPath id="clipPath54">
+      <path d="M0 0v22h55V0z"/>
+    </clipPath>
+    <clipPath id="clipPath55">
+      <path d="M0 0v124h218V0z"/>
+    </clipPath>
+    <clipPath id="clipPath56">
+      <path d="M0 0v122h148V0z"/>
+    </clipPath>
+    <clipPath id="clipPath57">
+      <path d="M0 0v22h48V0z"/>
+    </clipPath>
+    <clipPath id="clipPath58">
+      <path d="M0 0v124h255V0z"/>
+    </clipPath>
+    <font horiz-adv-x="50" id="font1">
+      <font-face ascent="95.2" font-style="normal" descent="21.3" units-per-em="100" font-family="Helvetica Neue" font-weight="normal"/>
+      <glyph unicode="s" horiz-adv-x="50" d="M11.6 16.3H3.1q.2-4.8 2-8.15 1.8-3.35 4.8-5.4Q12.9.7 16.8-.2q3.9-.9 8.2-.9 3.9 0 7.85.75 3.95.75 7.1 2.65 3.15 1.9 5.1 5Q47 10.4 47 15.1q0 3.7-1.45 6.2t-3.8 4.15q-2.35 1.65-5.4 2.65-3.05 1-6.25 1.7-3 .7-6 1.35-3 .65-5.4 1.6-2.4.95-3.95 2.4-1.55 1.45-1.55 3.65 0 2 1 3.25t2.6 2q1.6.75 3.55 1.05 1.95.3 3.85.3 2.1 0 4.15-.45 2.05-.45 3.75-1.45 1.7-1 2.8-2.65 1.1-1.65 1.3-4.15h8.5q-.3 4.7-2 7.85-1.7 3.15-4.55 5-2.85 1.85-6.55 2.6-3.7.75-8.1.75-3.4 0-6.85-.85-3.45-.85-6.2-2.6t-4.5-4.55Q4.2 42.1 4.2 38.2q0-5 2.5-7.8t6.25-4.35q3.75-1.55 8.15-2.4 4.4-.85 8.15-1.9Q33 20.7 35.5 19t2.5-5q0-2.4-1.2-3.95-1.2-1.55-3.05-2.35-1.85-.8-4.05-1.1-2.2-.3-4.2-.3-2.6 0-5.05.5-2.45.5-4.4 1.65-1.95 1.15-3.15 3.1-1.2 1.95-1.3 4.75z"/>
+      <glyph unicode="k" horiz-adv-x="52" d="M6.9 71.4V0h8.5v19.6l8 7.4L41.1 0h10.8l-22 32.9 20.5 18.8H39L15.4 29.1v42.3z"/>
+      <glyph unicode="c" horiz-adv-x="54" d="M41.5 35.1h8.8q-.5 4.6-2.4 7.95-1.9 3.35-4.85 5.55-2.95 2.2-6.8 3.25Q32.4 52.9 28 52.9q-6.1 0-10.7-2.15t-7.65-5.9Q6.6 41.1 5.1 36.05 3.6 31 3.6 25.2t1.55-10.65Q6.7 9.7 9.75 6.2t7.6-5.4Q21.9-1.1 27.8-1.1q9.9 0 15.65 5.2t7.15 14.8h-8.7q-.8-6-4.35-9.3Q34 6.3 27.7 6.3q-4 0-6.9 1.6-2.9 1.6-4.7 4.25-1.8 2.65-2.65 6.05-.85 3.4-.85 7 0 3.9.8 7.55t2.65 6.45Q17.9 42 21 43.7q3.1 1.7 7.7 1.7 5.4 0 8.6-2.7 3.2-2.7 4.2-7.6z"/>
+      <glyph unicode="a" horiz-adv-x="54" d="M52.2.2Q50-1.1 46.1-1.1q-3.3 0-5.25 1.85Q38.9 2.6 38.9 6.8 35.4 2.6 30.75.75 26.1-1.1 20.7-1.1q-3.5 0-6.65.8Q10.9.5 8.6 2.2 6.3 3.9 4.95 6.65T3.6 13.3q0 4.4 1.5 7.2t3.95 4.55q2.45 1.75 5.6 2.65 3.15.9 6.45 1.5 3.5.7 6.65 1.05 3.15.35 5.55 1t3.8 1.9q1.4 1.25 1.4 3.65 0 2.8-1.05 4.5-1.05 1.7-2.7 2.6-1.65.9-3.7 1.2-2.05.3-4.05.3-5.4 0-9-2.05-3.6-2.05-3.9-7.75H5.6q.2 4.8 2 8.1t4.8 5.35q3 2.05 6.85 2.95 3.85.9 8.25.9 3.5 0 6.95-.5t6.25-2.05q2.8-1.55 4.5-4.35 1.7-2.8 1.7-7.3V12.1q0-3 .35-4.4.35-1.4 2.35-1.4 1.1 0 2.6.5zM38.4 26.7q-1.6-1.2-4.2-1.75t-5.45-.9q-2.85-.35-5.75-.8-2.9-.45-5.2-1.45-2.3-1-3.75-2.85-1.45-1.85-1.45-5.05 0-2.1.85-3.55.85-1.45 2.2-2.35Q17 7.1 18.8 6.7q1.8-.4 3.8-.4 4.2 0 7.2 1.15t4.9 2.9q1.9 1.75 2.8 3.8.9 2.05.9 3.85z"/>
+      <glyph unicode="r" horiz-adv-x="33" d="M6.1 51.7V0h8.5v23q0 5 1 8.85 1 3.85 3.2 6.55 2.2 2.7 5.8 4.1 3.6 1.4 8.7 1.4v9q-6.9.2-11.4-2.8t-7.6-9.3h-.2v10.9z"/>
+      <glyph unicode="T" horiz-adv-x="57" d="M24 63.4V0h9.5v63.4h23.8v8H.2v-8z"/>
+      <glyph unicode="y" horiz-adv-x="50" d="M26.7-6.9q-1.5-3.8-2.95-6.4-1.45-2.6-3.2-4.25-1.75-1.65-3.9-2.4t-4.95-.75q-1.5 0-3 .2t-2.9.7v7.8q1.1-.5 2.55-.85 1.45-.35 2.45-.35 2.6 0 4.35 1.25Q16.9-10.7 17.8-8.4L21.3.3.8 51.7h9.6L25.5 9.4h.2l14.5 42.3h9z"/>
+      <glyph unicode="M" horiz-adv-x="87" d="M8 71.4V0h9v59.4h.2L39.5 0h8.1l22.3 59.4h.2V0h9v71.4h-13l-22.6-60-22.5 60z"/>
+      <glyph unicode="g" horiz-adv-x="57" d="M51 4.4v47.3h-8v-7.4h-.1q-2.3 4.3-6.4 6.45-4.1 2.15-9 2.15-6.7 0-11.3-2.55-4.6-2.55-7.4-6.5-2.8-3.95-4-8.8-1.2-4.85-1.2-9.45 0-5.3 1.45-10.05Q6.5 10.8 9.4 7.25q2.9-3.55 7.2-5.65Q20.9-.5 26.7-.5q5 0 9.45 2.25Q40.6 4 42.8 8.8h.2V5.4q0-4.3-.85-7.9-.85-3.6-2.75-6.15-1.9-2.55-4.8-4-2.9-1.45-7.1-1.45-2.1 0-4.4.45-2.3.45-4.25 1.45-1.95 1-3.3 2.6Q14.2-8 14.1-5.7H5.6q.2-4.2 2.2-7.1 2-2.9 5.05-4.7 3.05-1.8 6.8-2.6t7.35-.8q12.4 0 18.2 6.3Q51-8.3 51 4.4zM27.2 6.9q-4.2 0-7 1.75t-4.5 4.6Q14 16.1 13.3 19.6q-.7 3.5-.7 7 0 3.7.85 7.1.85 3.4 2.7 6t4.75 4.15q2.9 1.55 7 1.55 4 0 6.8-1.6t4.55-4.25Q41 36.9 41.8 33.6q.8-3.3.8-6.7 0-3.6-.85-7.2t-2.65-6.45q-1.8-2.85-4.75-4.6Q31.4 6.9 27.2 6.9z"/>
+      <glyph unicode="i" horiz-adv-x="22" d="M15.4 61v10.4H6.9V61zm-8.5-9.3V0h8.5v51.7z"/>
+      <glyph unicode="n" horiz-adv-x="56" d="M6.4 51.7V0h8.5v29.2q0 3.5.95 6.45t2.85 5.15q1.9 2.2 4.75 3.4 2.85 1.2 6.75 1.2 4.9 0 7.7-2.8t2.8-7.6V0h8.5v34q0 4.2-.85 7.65T45.4 47.6q-2.1 2.5-5.5 3.9t-8.5 1.4q-11.5 0-16.8-9.4h-.2v8.2z"/>
+      <glyph unicode="e" horiz-adv-x="54" d="M42.3 30.8H12.6q.2 3 1.3 5.65 1.1 2.65 3 4.65 1.9 2 4.55 3.15t5.95 1.15q3.2 0 5.85-1.15 2.65-1.15 4.6-3.1 1.95-1.95 3.1-4.65 1.15-2.7 1.35-5.7zm8.2-14.4h-8.4q-1.1-5.1-4.55-7.6-3.45-2.5-8.85-2.5-4.2 0-7.3 1.4-3.1 1.4-5.1 3.75-2 2.35-2.9 5.4-.9 3.05-.8 6.45h38.7q.2 4.7-.85 9.9t-3.8 9.6q-2.75 4.4-7.3 7.25Q34.8 52.9 27.9 52.9q-5.3 0-9.75-2t-7.7-5.6Q7.2 41.7 5.4 36.8 3.6 31.9 3.6 26q.2-5.9 1.75-10.9T10 6.5q3.1-3.6 7.65-5.6 4.55-2 10.75-2 8.8 0 14.6 4.4 5.8 4.4 7.5 13.1z"/>
+      <glyph unicode="L" horiz-adv-x="56" d="M7.8 71.4V0h47.3v8H17.3v63.4z"/>
+      <glyph unicode="A" horiz-adv-x="65" d="M20.1 29.5l12.1 33.3h.2l11.9-33.3zm7.1 41.9L-.6 0h9.7l8 21.5h30.2L55.1 0h10.5L37.7 71.4z"/>
+      <glyph unicode="d" horiz-adv-x="59" d="M12.6 25.4q0 3.8.8 7.4.8 3.6 2.6 6.4 1.8 2.8 4.8 4.5 3 1.7 7.3 1.7 4.4 0 7.5-1.65 3.1-1.65 5.05-4.35 1.95-2.7 2.85-6.25.9-3.55.9-7.35 0-3.6-.85-7.1-.85-3.5-2.75-6.25T35.9 8q-3-1.7-7.3-1.7-4.1 0-7.15 1.6-3.05 1.6-5 4.3-1.95 2.7-2.9 6.15t-.95 7.05zM52.6 0v71.4h-8.5V44.8h-.2q-1.4 2.3-3.45 3.85-2.05 1.55-4.35 2.5t-4.6 1.35q-2.3.4-4.3.4-5.9 0-10.35-2.15-4.45-2.15-7.4-5.8t-4.4-8.55Q3.6 31.5 3.6 26t1.5-10.4Q6.6 10.7 9.55 7q2.95-3.7 7.4-5.9T27.4-1.1q5.4 0 9.9 1.9T43.9 7h.2V0z"/>
+      <glyph unicode="o" horiz-adv-x="57" d="M12.6 25.8q0 4.7 1.25 8.35 1.25 3.65 3.45 6.15 2.2 2.5 5.15 3.8 2.95 1.3 6.25 1.3t6.25-1.3q2.95-1.3 5.15-3.8t3.45-6.15q1.25-3.65 1.25-8.35 0-4.7-1.25-8.35-1.25-3.65-3.45-6.1-2.2-2.45-5.15-3.75Q32 6.3 28.7 6.3t-6.25 1.3q-2.95 1.3-5.15 3.75t-3.45 6.1Q12.6 21.1 12.6 25.8zm-9 0q0-5.7 1.6-10.6 1.6-4.9 4.8-8.55Q13.2 3 17.9.95 22.6-1.1 28.7-1.1q6.2 0 10.85 2.05Q44.2 3 47.4 6.65q3.2 3.65 4.8 8.55 1.6 4.9 1.6 10.6 0 5.7-1.6 10.65t-4.8 8.6q-3.2 3.65-7.85 5.75-4.65 2.1-10.85 2.1-6.1 0-10.8-2.1-4.7-2.1-7.9-5.75t-4.8-8.6Q3.6 31.5 3.6 25.8z"/>
+      <glyph unicode="G" horiz-adv-x="76" d="M61.2 8.9L63.7 0h6v37.6H38.4v-8h22.8q.2-4.9-1.3-9.15t-4.45-7.4Q52.5 9.9 48.2 8.1q-4.3-1.8-9.9-1.8-6 0-10.55 2.35-4.55 2.35-7.65 6.3-3.1 3.95-4.7 9.1-1.6 5.15-1.6 10.75 0 5.7 1.4 11.15t4.35 9.7q2.95 4.25 7.6 6.85 4.65 2.6 11.15 2.6 4 0 7.55-.95t6.35-2.85q2.8-1.9 4.7-4.85 1.9-2.95 2.6-7.05H69q-1 6.3-3.75 10.75t-6.8 7.35q-4.05 2.9-9.2 4.25Q44.1 73.1 38.3 73.1q-8.5 0-14.85-3.15t-10.6-8.45q-4.25-5.3-6.4-12.35Q4.3 42.1 4.3 34.3q0-7 2.3-13.5t6.7-11.5q4.4-5 10.7-7.95Q30.3-1.6 38.3-1.6q6.3 0 12.5 2.45T61.2 8.9z"/>
+      <glyph unicode="m" horiz-adv-x="85" d="M6.4 51.7V0h8.5v32.2q0 1.5.75 3.75t2.4 4.35q1.65 2.1 4.3 3.6t6.35 1.5q2.9 0 4.75-.85t2.95-2.4q1.1-1.55 1.55-3.65.45-2.1.45-4.6V0h8.5v32.2q0 6 3.6 9.6 3.6 3.6 9.9 3.6 3.1 0 5.05-.9 1.95-.9 3.05-2.45 1.1-1.55 1.5-3.65.4-2.1.4-4.5V0h8.5v37.9q0 4-1.25 6.85-1.25 2.85-3.5 4.65-2.25 1.8-5.4 2.65-3.15.85-7.05.85-5.1 0-9.35-2.3t-6.85-6.5q-1.6 4.8-5.5 6.8t-8.7 2q-10.9 0-16.7-8.8h-.2v7.6z"/>
+      <glyph unicode="u" horiz-adv-x="56" d="M49.2 0v51.7h-8.5V22.5q0-3.5-.95-6.45T36.9 10.9Q35 8.7 32.15 7.5 29.3 6.3 25.4 6.3q-4.9 0-7.7 2.8t-2.8 7.6v35H6.4v-34q0-4.2.85-7.65T10.2 4.1q2.1-2.5 5.5-3.85t8.5-1.35q5.7 0 9.9 2.25T41 8.2h.2V0z"/>
+      <glyph unicode="R" horiz-adv-x="69" d="M7.8 71.4V0h9.5v30.5h23.2q3.5 0 5.6-1.05 2.1-1.05 3.4-2.8 1.3-1.75 1.9-4.1.6-2.35 1-4.95.5-2.6.6-5.3.1-2.7.2-5.05.1-2.35.45-4.25T55 0h10.6q-1.5 1.8-2.25 4.15Q62.6 6.5 62.2 9.1q-.4 2.6-.5 5.3-.1 2.7-.3 5.3-.3 2.6-.85 5t-1.7 4.35Q57.7 31 55.75 32.4q-1.95 1.4-5.05 2v.2q6.5 1.8 9.45 6.7 2.95 4.9 2.95 11.4 0 8.7-5.75 13.7t-15.95 5zm29.3-32.9H17.3v24.9h23.6q6.7 0 9.7-3.4 3-3.4 3-8.8 0-3.9-1.35-6.35-1.35-2.45-3.6-3.9Q46.4 39.5 43.4 39t-6.3-.5z"/>
+      <glyph unicode="D" horiz-adv-x="70" d="M17.3 8v55.4h16q6.6 0 11.1-1.85t7.35-5.4q2.85-3.55 4.1-8.6Q57.1 42.5 57.1 36.1q0-6.6-1.35-11.25T52.3 17.1q-2.1-3.1-4.75-4.9-2.65-1.8-5.35-2.75-2.7-.95-5.1-1.2-2.4-.25-4-.25zM7.8 71.4V0h24.5q8.9 0 15.4 2.5t10.7 7.25q4.2 4.75 6.2 11.7 2 6.95 2 15.95 0 17.2-8.9 25.6-8.9 8.4-25.4 8.4z"/>
+      <glyph unicode="t" horiz-adv-x="32" d="M18.2 51.7v15.5H9.7V51.7H.9v-7.5h8.8V11.3q0-3.6.7-5.8.7-2.2 2.15-3.4Q14 .9 16.35.45 18.7 0 22 0h6.5v7.5h-3.9q-2 0-3.25.15t-1.95.65q-.7.5-.95 1.4-.25.9-.25 2.4v32.1h10.3v7.5z"/>
+      <glyph unicode="W" horiz-adv-x="93" d="M72.3 0l19.1 71.4h-9.5L67.4 12h-.2L51.4 71.4H41.1L25.1 12h-.2l-14 59.4H1.2L19.5 0h9.9l16.5 60h.2L62.4 0z"/>
+      <glyph horiz-adv-x="28"/>
+      <glyph unicode="f" horiz-adv-x="30" d="M9.9 44.2V0h8.5v44.2h10v7.5h-10v7.2q0 3.4 1.7 4.6 1.7 1.2 4.8 1.2 1.1 0 2.4-.15 1.3-.15 2.4-.55v7.4q-1.2.4-2.75.6-1.55.2-2.75.2-7 0-10.65-3.25Q9.9 65.7 9.9 59.4v-7.7H1.2v-7.5z"/>
+      <glyph unicode="v" horiz-adv-x="50" d="M29.7 0l18.9 51.7h-8.9L25.6 8.6h-.2L10.9 51.7H1.4L20.6 0z"/>
+      <glyph unicode="E" horiz-adv-x="61" d="M7.8 71.4V0h49.6v8H17.3v24.7h37.1v8H17.3v22.7h39.8v8z"/>
+      <glyph unicode="h" horiz-adv-x="56" d="M6.4 71.4V0h8.5v29.2q0 3.5.95 6.45t2.85 5.15q1.9 2.2 4.75 3.4 2.85 1.2 6.75 1.2 4.9 0 7.7-2.8t2.8-7.6V0h8.5v34q0 4.2-.85 7.65T45.4 47.6q-2.1 2.5-5.5 3.9t-8.5 1.4q-2.3 0-4.75-.5t-4.7-1.55q-2.25-1.05-4.05-2.7-1.8-1.65-2.8-4.05h-.2v27.3z"/>
+      <glyph unicode="l" horiz-adv-x="22" d="M6.9 71.4V0h8.5v71.4z"/>
+      <glyph unicode="H" horiz-adv-x="72" d="M7.8 71.4V0h9.5v32.7h37.6V0h9.5v71.4h-9.5V40.7H17.3v30.7z"/>
+      <glyph unicode="B" horiz-adv-x="69" d="M17.3 40.7v22.7h19q3.1 0 5.85-.35Q44.9 62.7 47 61.5q2.1-1.2 3.3-3.4 1.2-2.2 1.2-6 0-5.7-3.55-8.55Q44.4 40.7 36.3 40.7zM7.8 71.4V0h34.5q5.3 0 9.35 1.75t6.8 4.6Q61.2 9.2 62.6 12.9q1.4 3.7 1.4 7.6 0 6.6-3.5 11.2t-10.1 6v.2q5.1 2 7.85 6.15T61 53.9q0 5.4-2.45 9.1-2.45 3.7-5.95 5.8-1.6 1-3.85 1.5t-4.85.75q-2.6.25-5.25.3-2.65.05-4.95.05zM17.3 8v24.7H39q3 0 5.8-.55t4.95-1.9q2.15-1.35 3.45-3.65 1.3-2.3 1.3-5.8 0-6-3.55-9.4Q47.4 8 41.1 8z"/>
+      <glyph unicode="C" horiz-adv-x="72" d="M58 49.9h9.5q-.8 5.7-3.4 10.05-2.6 4.35-6.5 7.25-3.9 2.9-8.9 4.4-5 1.5-10.6 1.5-8.2 0-14.55-2.95-6.35-2.95-10.6-8.05Q8.7 57 6.5 50.15T4.3 35.5q0-7.8 2.05-14.6T12.5 9.1q4.1-5 10.3-7.85Q29-1.6 37.3-1.6q13.7 0 21.6 7.5 7.9 7.5 9.3 21h-9.5q-.3-4.4-1.8-8.2-1.5-3.8-4.15-6.55-2.65-2.75-6.3-4.3Q42.8 6.3 38.1 6.3q-6.4 0-11 2.4t-7.55 6.45q-2.95 4.05-4.35 9.5-1.4 5.45-1.4 11.55 0 5.6 1.4 10.8 1.4 5.2 4.35 9.25 2.95 4.05 7.5 6.45Q31.6 65.1 38 65.1q7.5 0 12.95-3.8Q56.4 57.5 58 49.9z"/>
+      <glyph unicode="F" horiz-adv-x="57" d="M7.8 71.4V0h9.5v32.7h32.8v8H17.3v22.7h37.4v8z"/>
+      <glyph unicode="p" horiz-adv-x="59" d="M6.7 51.7v-71.4h8.5V6.9h.2q1.4-2.3 3.45-3.85Q20.9 1.5 23.2.6q2.3-.9 4.65-1.3 2.35-.4 4.25-.4Q38-1.1 42.45 1q4.45 2.1 7.4 5.75t4.4 8.55q1.45 4.9 1.45 10.4t-1.5 10.4q-1.5 4.9-4.45 8.65t-7.4 5.95q-4.45 2.2-10.45 2.2-5.4 0-9.9-1.95t-6.6-6.25h-.2v7zm40-25.4q0-3.8-.8-7.4-.8-3.6-2.6-6.4-1.8-2.8-4.75-4.5-2.95-1.7-7.35-1.7-4.4 0-7.5 1.65-3.1 1.65-5.05 4.35-1.95 2.7-2.85 6.25-.9 3.55-.9 7.35 0 3.6.85 7.1.85 3.5 2.75 6.25t4.9 4.45q3 1.7 7.3 1.7 4.1 0 7.15-1.6 3.05-1.6 5-4.3 1.95-2.7 2.9-6.15t.95-7.05z"/>
+      <glyph unicode="q" horiz-adv-x="59" d="M12.6 25.4q0 3.8.8 7.4.8 3.6 2.6 6.4 1.8 2.8 4.8 4.5 3 1.7 7.3 1.7 4.4 0 7.5-1.65 3.1-1.65 5.05-4.35 1.95-2.7 2.85-6.25.9-3.55.9-7.35 0-3.6-.85-7.1-.85-3.5-2.75-6.25T35.9 8q-3-1.7-7.3-1.7-4.1 0-7.15 1.6-3.05 1.6-5 4.3-1.95 2.7-2.9 6.15t-.95 7.05zm40-45.1v71.4h-8.5v-6.9h-.2q-1.4 2.3-3.45 3.85-2.05 1.55-4.35 2.5t-4.6 1.35q-2.3.4-4.3.4-5.9 0-10.35-2.15-4.45-2.15-7.4-5.8t-4.4-8.55Q3.6 31.5 3.6 26t1.5-10.4Q6.6 10.7 9.55 7q2.95-3.7 7.4-5.9T27.4-1.1q5.4 0 9.9 1.9T43.9 7h.2v-26.7z"/>
+      <glyph unicode="P" horiz-adv-x="65" d="M17.3 37.2v26.2h18.6q8.1 0 11.85-3.35t3.75-9.75q0-6.4-3.75-9.8Q44 37.1 35.9 37.2zM7.8 71.4V0h9.5v29.2h21.8q10.8-.1 16.35 5.5Q61 40.3 61 50.3t-5.55 15.55Q49.9 71.4 39.1 71.4z"/>
+      <glyph unicode="S" horiz-adv-x="65" d="M49.1 50.5h9q-.2 5.9-2.25 10.15t-5.6 7.05Q46.7 70.5 42 71.8q-4.7 1.3-10.2 1.3-4.9 0-9.55-1.25t-8.3-3.8q-3.65-2.55-5.85-6.5-2.2-3.95-2.2-9.35 0-4.9 1.95-8.15t5.2-5.3q3.25-2.05 7.35-3.3t8.35-2.2Q33 32.3 37.1 31.4q4.1-.9 7.35-2.35 3.25-1.45 5.2-3.75 1.95-2.3 1.95-6 0-3.9-1.6-6.4-1.6-2.5-4.2-3.95-2.6-1.45-5.85-2.05-3.25-.6-6.45-.6-4 0-7.8 1t-6.65 3.1q-2.85 2.1-4.6 5.35Q12.7 19 12.7 23.5h-9q0-6.5 2.35-11.25t6.4-7.8Q16.5 1.4 21.85-.1 27.2-1.6 33.2-1.6q4.9 0 9.85 1.15Q48 .7 52 3.25q4 2.55 6.55 6.6t2.55 9.75q0 5.3-1.95 8.8-1.95 3.5-5.2 5.8t-7.35 3.65q-4.1 1.35-8.35 2.35t-8.35 1.85q-4.1.85-7.35 2.15-3.25 1.3-5.2 3.35-1.95 2.05-1.95 5.35 0 3.5 1.35 5.85 1.35 2.35 3.6 3.75t5.15 2q2.9.6 5.9.6 7.4 0 12.15-3.45T49.1 50.5z"/>
+      <glyph unicode="I" horiz-adv-x="26" d="M8.2 71.4V0h9.5v71.4z"/>
+    </font>
+    <font horiz-adv-x="100" id="font2">
+      <font-face ascent="100" font-style="normal" descent="31.25" units-per-em="100" font-family="Apple Color Emoji" font-weight="normal"/>
+      <glyph unicode="n" horiz-adv-x="60" d="M7.568 0v54.541h9.082V42.627q3.907 6.299 9.424 9.863 5.518 3.565 11.035 3.565 4.834 0 8.79-2.564 3.955-2.563 5.541-6.714 1.587-4.15 1.587-16.308V0h-9.082v31.592q0 7.861-.757 10.376-.756 2.514-2.783 4.126-2.026 1.611-4.419 1.611-4.785 0-10.278-4.54-5.493-4.542-9.058-11.378V0z"/>
+      <glyph unicode="i" horiz-adv-x="60" d="M22.852 0v46.973H7.715v7.568h24.219V7.568h15.185V0zm-1.514 74.219q0 3.076 2.1 4.59 2.1 1.513 3.955 1.513 1.904 0 4.003-1.513 2.1-1.514 2.1-4.59 0-3.028-2.1-4.541-2.1-1.514-4.003-1.514-1.856 0-3.956 1.514-2.1 1.513-2.1 4.54z"/>
+      <glyph unicode="t" horiz-adv-x="60" d="M53.174 2.197Q46.777-.488 43.896-1q-2.88-.513-5.566-.513-5.713 0-10.45 2.198-4.735 2.197-7.152 6.494t-2.418 13.28v21.973H4.688V50H18.31v21.973h9.082V50H51.66v-7.568H27.393V20.605q0-6.591 1.562-9.301 1.563-2.71 4.175-3.98t6.177-1.27q6.591 0 13.867 4.151z"/>
+      <glyph unicode="a" horiz-adv-x="60" d="M43.408 12.256q-4.15-6.836-9.985-10.303-5.835-3.467-10.718-3.467-6.836 0-12.28 5.909-5.445 5.908-5.445 17.92 0 9.472 3.614 16.918 3.613 7.447 9.668 11.768 6.054 4.321 14.99 4.321 2.588 0 7.812-.537.782-.097 2.344-.244h9.131V16.016q0-9.864 2.05-16.016h-9.472q-1.074 4.492-1.709 12.256zm0 10.79v23.39q-4.834 1.27-8.984 1.27-8.399 0-13.99-6.495-5.59-6.494-5.59-17.676 0-8.105 3.052-12.231 3.051-4.126 6.958-4.126 4.248 0 9.375 4.297 5.126 4.296 9.18 11.572z"/>
+      <glyph unicode="c" horiz-adv-x="60" d="M53.467 1.563q-9.131-3.077-17.383-3.077-8.203 0-14.575 3.785-6.372 3.784-9.937 10.253-3.564 6.47-3.564 14.722 0 12.402 8.08 20.606 8.082 8.203 19.508 8.203 8.447 0 17.87-3.174v-8.74q-9.52 4.345-17.04 4.345-4.98 0-9.375-2.465-4.395-2.466-6.787-7.69-2.393-5.226-2.393-10.743 0-7.373 4.614-14.063 4.615-6.69 14.478-6.69 2.978 0 5.86.416 2.88.415 10.644 3.052z"/>
+      <glyph unicode="o" horiz-adv-x="60" d="M30.03-1.514q-11.72 0-18.75 8.179-7.032 8.179-7.032 20.63 0 12.451 7.031 20.605 7.032 8.155 18.75 8.155 11.67 0 18.701-8.155 7.032-8.154 7.032-20.605T48.73 6.665q-7.03-8.179-18.7-8.179zm0 7.569q7.275 0 11.572 5.664 4.296 5.664 4.296 15.576 0 9.863-4.296 15.527-4.297 5.664-11.573 5.664-7.324 0-11.62-5.664-4.298-5.664-4.298-15.527 0-9.912 4.297-15.576T30.03 6.055z"/>
+      <glyph unicode="L" horiz-adv-x="60" d="M51.611 8.35V0H10.693v75.781h9.864V8.35z"/>
+      <glyph horiz-adv-x="100"/>
+    </font>
+  </defs>
+  <path clip-path="url(#clipPath1)" stroke="none" d="M0 0h3209v1531H0z" transform="translate(-1331 -592)" font-size="13" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" shape-rendering="crispEdges"/>
+  <g font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#333" stroke-width="6">
+    <path d="M345 203s23-99 43-99m-39 100s19-73 39-73m-31 77s11-40 31-40m-21 53s1-3 21-3m-38 21s18 67 38 67" clip-path="url(#clipPath2)" transform="translate(-50 -50)"/>
+    <path d="M305 204s-19-74-39-74m26 102s-6 23-26 23m45-14s-25 114-45 114" clip-path="url(#clipPath2)" stroke="#191919" transform="translate(-50 -50)"/>
+  </g>
+  <ellipse rx="39.5" ry="21" clip-path="url(#clipPath3)" cx="40.5" cy="22" stroke="none" font-size="14" stroke-linecap="butt" transform="translate(237 150)" fill="#fff" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke-width="6"/>
+  <ellipse rx="40" fill="none" ry="21.5" clip-path="url(#clipPath3)" cx="40" cy="21.5" text-rendering="optimizeSpeed" font-size="14" font-family="'Helvetica Neue'" transform="translate(237 150)" stroke="gray"/>
+  <text x="9" y="27" clip-path="url(#clipPath3)" stroke="none" transform="translate(237 150)" text-rendering="geometricPrecision" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    MyTracks
+  </text>
+  <path d="M162 105c-12 0-1-36-21-36m21 36c-12 0-1-11-21-11m21 11c-12 0-1 14-21 14m21-14c-12 0-1 39-21 39" clip-path="url(#clipPath4)" transform="translate(-13 200)" font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#191919" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath6)" d="M0 18h68" transform="translate(149 287)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath6)" stroke="none" transform="translate(149 287)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Learning
+  </text>
+  <path fill="none" clip-path="url(#clipPath9)" d="M0 19h24" transform="translate(105 325)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath9)" stroke="none" transform="translate(105 325)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    iA
+  </text>
+  <path fill="none" clip-path="url(#clipPath11)" d="M0 19h51" transform="translate(78 300)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath11)" stroke="none" transform="translate(78 300)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Lynda
+  </text>
+  <path fill="none" clip-path="url(#clipPath13)" d="M0 19h83" transform="translate(46 275)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath13)" stroke="none" transform="translate(46 275)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Goodreads
+  </text>
+  <path fill="none" clip-path="url(#clipPath15)" d="M0 19h92" transform="translate(37 250)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath15)" stroke="none" transform="translate(37 250)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    RescueTime
+  </text>
+  <path d="M139 105c-12 0-1-36-21-36m21 36c-12 0-1-11-21-11m21 11c-12 0-1 14-21 14m21-14c-12 0-1 39-21 39" clip-path="url(#clipPath16)" transform="translate(33 100)" font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#191919" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath17)" d="M0 18h45" transform="translate(172 187)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath17)" stroke="none" transform="translate(172 187)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Diary
+  </text>
+  <path fill="none" clip-path="url(#clipPath19)" d="M0 19h66" transform="translate(86 225)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath19)" stroke="none" transform="translate(86 225)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    iA Writer
+  </text>
+  <path fill="none" clip-path="url(#clipPath21)" d="M0 19h50" transform="translate(102 200)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath21)" stroke="none" transform="translate(102 200)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Drafts
+  </text>
+  <path fill="none" clip-path="url(#clipPath23)" d="M0 19h69" transform="translate(83 175)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath23)" stroke="none" transform="translate(83 175)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Evernote
+  </text>
+  <path fill="none" clip-path="url(#clipPath25)" d="M0 19h61" transform="translate(91 150)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath25)" stroke="none" transform="translate(91 150)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Dayone
+  </text>
+  <path d="M214 130c-12 0-1-61-21-61m21 61c-12 0-1-36-21-36m21 36c-12 0-1 14-21 14m21-14c-12 0-1 64-21 64" clip-path="url(#clipPath26)" transform="translate(-50 -50)" font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#191919" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath27)" d="M0 18h53" transform="translate(164 62)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath27)" stroke="none" transform="translate(164 62)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Health
+  </text>
+  <path fill="none" clip-path="url(#clipPath29)" d="M0 19h144" transform="translate(0 125)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath29)" stroke="none" transform="translate(0 125)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Body measurements
+  </text>
+  <path d="M129 94c-12 0-1-25-21-25m21 25h-21m21 0c-12 0-1 25-21 25" clip-path="url(#clipPath30)" transform="translate(-37)" font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#191919" stroke-width="4"/>
+  <path fill="none" clip-path="url(#clipPath31)" d="M0 19h52" transform="translate(92 75)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath31)" stroke="none" transform="translate(92 75)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Drinks
+  </text>
+  <path fill="none" clip-path="url(#clipPath33)" d="M0 19h59" transform="translate(13 100)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="4"/>
+  <text x="6" y="16" clip-path="url(#clipPath33)" stroke="none" transform="translate(13 100)" text-rendering="geometricPrecision" stroke-width="4" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Alcohol
+  </text>
+  <path fill="none" clip-path="url(#clipPath35)" d="M0 19h56" transform="translate(16 75)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="4"/>
+  <text x="6" y="16" clip-path="url(#clipPath35)" stroke="none" transform="translate(16 75)" text-rendering="geometricPrecision" stroke-width="4" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Coffins
+  </text>
+  <path fill="none" clip-path="url(#clipPath21)" d="M0 19h50" transform="translate(22 50)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="4"/>
+  <text x="6" y="16" clip-path="url(#clipPath21)" stroke="none" transform="translate(22 50)" text-rendering="geometricPrecision" stroke-width="4" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Water
+  </text>
+  <path fill="none" clip-path="url(#clipPath11)" d="M0 19h51" transform="translate(93 25)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath11)" stroke="none" transform="translate(93 25)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Foods
+  </text>
+  <path fill="none" clip-path="url(#clipPath37)" d="M0 19h72" transform="translate(72)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#191919" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath37)" stroke="none" transform="translate(72)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Workouts
+  </text>
+  <path d="M139 118c12 0 1-49 21-49m-21 49c12 0 1-24 21-24m-21 24c12 0 1 1 21 1m-21-1c12 0 1 26 21 26m-21-26c12 0 1 51 21 51" clip-path="url(#clipPath38)" transform="translate(288 138)" font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#333" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath40)" d="M0 19h90" transform="translate(338 237)" font-size="14" text-rendering="optimizeSpeed" font-family="'Apple Color Emoji'" stroke="#333" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath40)" stroke="none" transform="translate(338 237)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Apple Color Emoji'">
+    Location
+  </text>
+  <path fill="none" clip-path="url(#clipPath42)" d="M0 19h99" transform="translate(448 288)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath42)" stroke="none" transform="translate(448 288)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    iCloud photos
+  </text>
+  <path fill="none" clip-path="url(#clipPath44)" d="M0 19h64" transform="translate(448 263)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath44)" stroke="none" transform="translate(448 263)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Moment
+  </text>
+  <path fill="none" clip-path="url(#clipPath37)" d="M0 19h72" transform="translate(448 238)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath37)" stroke="none" transform="translate(448 238)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Workouts
+  </text>
+  <path fill="none" clip-path="url(#clipPath46)" d="M0 19h85" transform="translate(448 213)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath46)" stroke="none" transform="translate(448 213)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Foursquare
+  </text>
+  <path fill="none" clip-path="url(#clipPath48)" d="M0 19h87" transform="translate(448 188)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath48)" stroke="none" transform="translate(448 188)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    TrackPoints
+  </text>
+  <path d="M107 80c12 0 1-11 21-11m-21 11c12 0 1 14 21 14" clip-path="url(#clipPath49)" transform="translate(288 88)" font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#333" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath50)" d="M0 18h58" transform="translate(338 150)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath50)" stroke="none" transform="translate(338 150)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Games
+  </text>
+  <path fill="none" clip-path="url(#clipPath15)" d="M0 19h92" transform="translate(416 163)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath15)" stroke="none" transform="translate(416 163)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    RescueTime
+  </text>
+  <path fill="none" clip-path="url(#clipPath27)" d="M0 19h53" transform="translate(416 138)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath27)" stroke="none" transform="translate(416 138)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Steam
+  </text>
+  <path d="M99 80c12 0 1-11 21-11M99 80c12 0 1 14 21 14" clip-path="url(#clipPath52)" transform="translate(288 38)" font-size="13" stroke-linecap="butt" fill="none" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#333" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath21)" d="M0 18h50" transform="translate(338 100)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath21)" stroke="none" transform="translate(338 100)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Music
+  </text>
+  <path fill="none" clip-path="url(#clipPath54)" d="M0 19h55" transform="translate(408 113)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <a text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'" transform="translate(408 113)">
+    <text x="6" y="16" clip-path="url(#clipPath54)" stroke="none" fill="#00f">
+      Spotify
+    </text>
+  </a>
+  <path fill="none" clip-path="url(#clipPath33)" d="M0 19h59" transform="translate(408 88)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath33)" stroke="none" transform="translate(408 88)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    LastFM
+  </text>
+  <path fill="none" d="M99 70c12 0 1-1 21-1" clip-path="url(#clipPath55)" transform="translate(288 11)" font-size="13" stroke-linecap="butt" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#333" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath21)" d="M0 18h50" transform="translate(338 63)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath21)" stroke="none" transform="translate(338 63)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Movie
+  </text>
+  <path fill="none" clip-path="url(#clipPath57)" d="M0 19h48" transform="translate(408 61)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath57)" stroke="none" transform="translate(408 61)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    IMDB
+  </text>
+  <path fill="none" d="M101 70c12 0 1-1 21-1" clip-path="url(#clipPath58)" transform="translate(288 -16)" font-size="13" stroke-linecap="butt" text-rendering="optimizeSpeed" font-family="'Lucida Grande'" stroke="#333" stroke-width="5"/>
+  <path fill="none" clip-path="url(#clipPath31)" d="M0 18h52" transform="translate(338 36)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="6"/>
+  <text x="6" y="16" clip-path="url(#clipPath31)" stroke="none" transform="translate(338 36)" text-rendering="geometricPrecision" stroke-width="6" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Books
+  </text>
+  <path fill="none" clip-path="url(#clipPath13)" d="M0 19h83" transform="translate(410 34)" font-size="14" text-rendering="optimizeSpeed" font-family="'Helvetica Neue'" stroke="#333" stroke-width="5"/>
+  <text x="6" y="16" clip-path="url(#clipPath13)" stroke="none" transform="translate(410 34)" text-rendering="geometricPrecision" stroke-width="5" font-size="14" shape-rendering="crispEdges" font-family="'Helvetica Neue'">
+    Goodreads
+  </text>
+</svg>

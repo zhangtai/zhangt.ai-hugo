@@ -1,0 +1,7 @@
+<div class="align-center">
+    <picture>
+        <source srcset="{{ index .Params 0 }}" type="image/webp">
+        <source srcset="{{ index .Params 1 }}" type="image/jpeg"> 
+        <img src="{{ index .Params 1 }}" alt="Alt Text!">
+    </picture>
+</div>
