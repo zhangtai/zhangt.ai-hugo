@@ -13,13 +13,8 @@ Until Fiery Feeds arrive with it URL Actions function to rescue. You can define 
 workflow://x-callback-url/run-workflow?name=Instapaper%20Learn&id=B9E76B0C-1A3F-4A8D-B5B6-C5CB0A54697B&input={url}&x-success={callback}&x-source={source}
 ```
 
-{{% center %}}
-    {{< figure src="../img/fiery-feeds-action-instacondition.jpg" width="100%" alt="">}}
-{{% /center %}}
+![](../img/fiery-feeds-action-instacondition.jpg)
 
 It only passed `{url}`, that's what I need in Workflow, you can import to yours by [this link](https://workflow.is/workflows/3f82dc5039b54d898bd275ccc3435005).
 
-{{% center %}}
-    {{< figure src="../img/workflow-fiery-feeds-instacondition.jpg" width="100%" alt="">}}
-{{% /center %}}
-
+![](../img/workflow-fiery-feeds-instacondition.jpg)

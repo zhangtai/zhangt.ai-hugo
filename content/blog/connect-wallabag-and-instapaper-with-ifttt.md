@@ -79,9 +79,7 @@ nohup uwsgi --http :55555 --module wapi:app >/dev/null 2>&1 &
 
 After you comfortable with your testing of the service, you can config at IFTTT like mine:
 
-{{% center %}}
-    {{< figure src="../img/ifttt-config-wallabag-instapaper.jpg" width="100%" alt="">}}
-{{% /center %}}
+![](../img/ifttt-config-wallabag-instapaper.jpg)
 
 ## Other thoughts
 
