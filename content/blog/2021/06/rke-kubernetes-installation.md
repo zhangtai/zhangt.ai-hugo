@@ -1,6 +1,6 @@
 ---
 title: RKE Kubernetes Installation
-date: 2021-06-06T12:20:48+08:00
+date: 2021-06-06T11:20:48+08:00
 ---
 
 [Official Docs](https://rancher.com/docs/rke/latest/en/installation/)
