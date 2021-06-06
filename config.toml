@@ -82,7 +82,7 @@ wechat = "wechat-zhangtai-qr.jpg"
 
 
 [params.social.config]
-platforms = ["github","facebook","twitter","email","linkedin", "wechat"]
+platforms = ["github", "linkedin"]
 
 [params.comments]
 enable = false
