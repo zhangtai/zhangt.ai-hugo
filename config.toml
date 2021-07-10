@@ -126,5 +126,11 @@ weight = -9
 identifier = "/blog/"
 url = "/blog/"
 
+[[menu.main]]
+name = "Micro"
+weight = -9
+identifier = "/micro/"
+url = "/micro/"
+
 [markup.goldmark.renderer]
 unsafe= true
